@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.tools/
+*.log
+test-results/
+*.tsbuildinfo
+android/.gradle/
+android/local.properties
+android/**/build/
+.idea/
+*.jks
+*.keystore
+.env
+.env.*
+!.env.example

@@ -1,0 +1,1 @@
+{"version":"2.0.0","tasks":[{"label":"Contas em Dia: iniciar prévia","type":"shell","command":"powershell","args":["-ExecutionPolicy","Bypass","-File","${workspaceFolder}/start-preview.ps1"],"isBackground":true,"problemMatcher":[],"presentation":{"reveal":"always"}}]}
